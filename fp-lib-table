@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name esp-12s)(type KiCad)(uri "$(KIPRJMOD)/libraries/esp-12s.pretty")(options "")(descr ""))
+  (lib (name headers)(type KiCad)(uri "$(KIPRJMOD)/libraries/headers.pretty")(options "")(descr ""))
+)
